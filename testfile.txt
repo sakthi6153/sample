@@ -22,3 +22,6 @@ public static void returnOrder(HTTPServlet request,HTTPServlet response) {
 public static void cancelOrder(HTTPServlet request,HTTPServlet response) {
   Obj.getOrderDetails(orderId);
 }
+public static void shipOrder(HTTPServlet request,HTTPServlet response) {
+  Obj.getOrderDetails(orderId);
+}
