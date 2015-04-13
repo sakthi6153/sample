@@ -44,3 +44,6 @@ public static void processCommerceItems(HTTPServlet request,HTTPServlet response
 public static void editcommerceItems(HTTPServlet request,HTTPServlet response) {
   Obj.getOrderDetails(orderId);
 }
+public static void addMorecommerceItems(HTTPServlet request,HTTPServlet response) {
+  Obj.getOrderDetails(orderId);
+}
