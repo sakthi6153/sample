@@ -37,3 +37,6 @@ public static void addItemToOrder(HTTPServlet request,HTTPServlet response) {
 public static void createCommerceItems(HTTPServlet request,HTTPServlet response) {
   Obj.getprodcutdetails(productId);
 }
+public static void processCommerceItems(HTTPServlet request,HTTPServlet response) {
+  Obj.getprodcutdetails(productId);
+}
