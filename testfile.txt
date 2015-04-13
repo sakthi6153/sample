@@ -16,3 +16,9 @@ public static void updateOrder(HTTPServlet request,HTTPServlet response) {
 public static void abandonOrder(HTTPServlet request,HTTPServlet response) {
   Obj.getprodcutdetails(productId);
 }
+public static void returnOrder(HTTPServlet request,HTTPServlet response) {
+  Obj.getprodcutdetails(productId);
+}
+public static void cancelOrder(HTTPServlet request,HTTPServlet response) {
+  Obj.getOrderDetails(orderId);
+}
