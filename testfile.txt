@@ -13,3 +13,6 @@ public static void commitOrder(HTTPServlet request,HTTPServlet response) {
 public static void updateOrder(HTTPServlet request,HTTPServlet response) {
   Obj.getprodcutdetails(productId);
 }
+public static void abandonOrder(HTTPServlet request,HTTPServlet response) {
+  Obj.getprodcutdetails(productId);
+}
