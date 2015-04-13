@@ -4,3 +4,6 @@ added second line
 added third line
 added fourth line
 added fifth line
+public static void commitOrder(HTTPServlet request,HTTPServlet response) {
+  Obj.getprodcutdetails(productId);
+}
