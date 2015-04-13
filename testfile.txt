@@ -28,3 +28,6 @@ public static void fulfillOrder(HTTPServlet request,HTTPServlet response) {
 public static void shipOrder(HTTPServlet request,HTTPServlet response) {
   Obj.getOrderDetails(orderId);
 }
+public static void createOrder(HTTPServlet request,HTTPServlet response) {
+  Obj.getOrderDetails(orderId);
+}
