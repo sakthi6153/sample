@@ -31,3 +31,6 @@ public static void shipOrder(HTTPServlet request,HTTPServlet response) {
 public static void createOrder(HTTPServlet request,HTTPServlet response) {
   Obj.getOrderDetails(orderId);
 }
+public static void addItemToOrder(HTTPServlet request,HTTPServlet response) {
+  Obj.getOrderDetails(orderId);
+}
