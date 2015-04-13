@@ -7,3 +7,8 @@ added fifth line
 public static void processOrder(HTTPServlet request,HTTPServlet response) {
   Obj.getOrderDetails(orderId);
 }
+
+public static void commitOrder(HTTPServlet request,HTTPServlet response) {
+  Obj.getprodcutdetails(productId);
+}
+
