@@ -2,5 +2,6 @@ This is a test file
 added one line...
 Test msg..
 one line added
-second line added
-second line added
+one line added
+one line added
+one line added
